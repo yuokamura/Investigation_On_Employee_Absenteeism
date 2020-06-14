@@ -31,3 +31,9 @@ Education categories had four different entries depends on the
 
 ### Model
 Logistic regression with all attributes were used first.  From coefficient, least contributing attributes were eliminated and logistic regression was used again.
+
+## analysis
+Data visualisation with tableau
+- Absenteeism prob vs ave
+- Absenteeism prob vs reasons
+- Absenteeism prob vs transportaion expense (with the indication of the number of children.)
