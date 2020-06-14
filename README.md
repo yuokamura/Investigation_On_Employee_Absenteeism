@@ -17,7 +17,7 @@ Specific numbers given depends on the nature of the absence.  (28 reasons in tot
 - Age
 - Daily work load average
 - Body mass index
-- Education
+- Education  
 Employee's education level.  (1-highschool, 2-graduate, 3-postgraduate, 4-doctor)
 - Children
 - Pets
@@ -29,5 +29,5 @@ There were 28 reasons for absence, and these were grouped into 4 categories. \
 Date were put into two new attributes, namely "Month value" and "Day of the Week" \
 Education categories had four different entries depends on the
 
-
-The logistic regression model was deployed
+### Model
+Logistic regression with all attributes were used first.  From coefficient, least contributing attributes were eliminated and logistic regression was used again.
